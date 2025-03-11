@@ -1,6 +1,6 @@
 # React + Vite
 
-Meu primeiro projeto em react. Utilizando vite como framework!
+Meu primeiro projeto em JavaScript utilizando react e vite como framework!
 
 Interface do Projeto:
 
